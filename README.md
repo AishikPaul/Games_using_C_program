@@ -1,4 +1,4 @@
-# Image Sentiment Classifier
+# Simple Games Using C Program
 ### A very simple C program based puzzle game making approach.
 
 ## Steps to Run :-
